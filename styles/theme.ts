@@ -1,5 +1,4 @@
-// src/styles/theme.ts
-export const theme = {
+const theme = {
   colors: {
     primary: '#00856F',
     primaryHover: '#006F5E',
@@ -41,4 +40,6 @@ export const theme = {
     tablet: '768px',
     desktop: '992px',
   },
-};
+}
+
+export default theme
